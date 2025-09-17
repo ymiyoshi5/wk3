@@ -4,9 +4,12 @@ p {
 
 a {
     font-size: 16px;
-    color: #B21F50 /* #B92751*/
     text-decoration-line: underline;
     text-decoration-style: wavy;
+}
+
+p.datacite a {
+    color: #B21F50 /* #B92751*/
 }
 
 *:focus {
